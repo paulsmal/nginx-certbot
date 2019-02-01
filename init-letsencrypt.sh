@@ -1,6 +1,6 @@
 #!/bin/bash
 
-domains=(youtubesmp3.com usrhub.com usrlog.com cheriparis.com)
+domains=(youtubesmp3.com usrhub.com api.usrhub.com usrlog.com cheriparis.com)
 rsa_key_size=4096
 data_path="./data/certbot"
 email="pavel.smal@gmail.com" # Adding a valid address is strongly recommended
